@@ -25,3 +25,18 @@
 #container a {
   text-decoration: none;
 }
+
+.img {
+  background-image: url(../../assets/image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+
+}
+
+.app {
+  position: relative;
+  top: 20%;
+  widows: 100%;
+}
